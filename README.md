@@ -1,2 +1,2 @@
-## Plant Disease Detection from Images
+## Plant Disease Detection from Images 
 
