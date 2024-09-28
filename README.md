@@ -104,7 +104,9 @@ The application will display the predicted disease and its confidence score base
 ## 🚧 Challenges and Future Work
 
 ### Challenges:
+
 In plant disease detection, one significant challenge is handling imbalanced datasets, where some diseases have fewer images for training. This imbalance can bias the model towards more common classes, resulting in poor performance on rare diseases. While the provided dataset was already augmented, implementing image preprocessing steps such as resizing, normalization, and further augmentation could enhance model performance. Moreover, optimizing the application for real-time inference is critical, as users expect quick and accurate predictions. Achieving low latency requires careful optimization of both the model architecture and the application infrastructure, ensuring seamless user experiences without compromising prediction accuracy.
 
 ### Future Work:
+
 Future enhancements could include implementing a feedback mechanism for users to report incorrect predictions, providing valuable data for model improvement and fostering community engagement. Furthermore, expanding the model to recognize a wider range of plant species and diseases is crucial to meet the diverse needs of users in agriculture. By continually updating the dataset and refining the model, the application can become a vital tool for farmers and gardeners in managing plant health effectively.
