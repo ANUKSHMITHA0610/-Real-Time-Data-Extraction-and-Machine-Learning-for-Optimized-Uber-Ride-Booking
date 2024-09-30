@@ -69,9 +69,11 @@ We are predicting the different plant diseases using our **Custom CNN**. Therefo
 - [__Recall__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html#recall-score): Evaluates the ability of the model to capture all relevant positive cases.
 
 ### 4. 🖥️ User Interface Development
+
 We have created a web interface using Streamlit that allows users to upload images of plant leaves. Implemented validations to check the type of file uploaded (e.g., JPEG, PNG) and ensured that the application is intuitive and user-friendly, with clear instructions and feedback for users.
 
 ### 5. 🌐 Deployment and Testing
+
 Deployed the Streamlit application using Streamlit. Conducted extensive testing to ensure the application correctly predicts plant diseases and handles various image inputs effectively.
 
 ## 🔍 Model Comparison
